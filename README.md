@@ -1,7 +1,7 @@
 - 👋 Hi, I’m radwa
-- 👀 I’m interested in quality assurance and software testing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in quality assurance and data analysis
+- 🌱 I’m currently learning Automation Testing and How to manipulate and visualize data using python
+- 💞️ I want to be a professional quality assurance engineer and a professional data analyst engineer
 - 📫 How to reach me radwa95e@gmail.com
 
 <!---
